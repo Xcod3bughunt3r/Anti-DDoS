@@ -3,12 +3,12 @@
 # ``Anti DDoS``
 #### `A simple way to protect your web application from DDOS attack(FREELY) in` *1 line*.
 ### `How it work?`
-<p align="center"><a href="https://www.itsecurity.id/"><img height="150" title="Xcod3bughunt3r" src="/img/icon.png"/></a></p>
+<p align="center"><a href="https://www.itsecurity.id/"><img height="480" title="Xcod3bughunt3r" src="/img/icon.png"/></a></p>
 
 #### `At each connection, the system temporarily saves the ip address of the client and monitors its connection frequency, if this connection frequency is abnormal, then the system considers it as a black ip address and sends a verification request in the form of a verification. Captcha integrated into the system, if he passes this check, then it is a human and not a robot!`
 
 ### `Testing...`
-<p align="center"><a href="https://www.itsecurity.id/"><img height="150" title="Xcod3bughunt3r" src="/img/Antiddos.gif"/></a></p>
+<p align="center"><a href="https://www.itsecurity.id/"><img height="480" title="Xcod3bughunt3r" src="/img/Antiddos.gif"/></a></p>
 
 #### `"This project has been tested by severals ddos software with a score of 77%."`
 
